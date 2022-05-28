@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Days_of_the_week", "Days_of_the_week\Days_of_the_week.csproj", "{F35FC571-C6FA-4A7E-AD52-96F8E02FF431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{48DB9317-E95C-44BB-8C59-B50354E5C5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35FC571-C6FA-4A7E-AD52-96F8E02FF431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35FC571-C6FA-4A7E-AD52-96F8E02FF431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35FC571-C6FA-4A7E-AD52-96F8E02FF431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35FC571-C6FA-4A7E-AD52-96F8E02FF431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DB9317-E95C-44BB-8C59-B50354E5C5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DB9317-E95C-44BB-8C59-B50354E5C5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DB9317-E95C-44BB-8C59-B50354E5C5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DB9317-E95C-44BB-8C59-B50354E5C5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD8EECC1-E766-4CFB-AB68-C654B9F73F4C}
+	EndGlobalSection
+EndGlobal
